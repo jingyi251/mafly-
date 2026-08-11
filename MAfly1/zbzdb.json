@@ -10,7 +10,11 @@
             "type": 1,
             "url": "https://x.maflya.com/api/proxy?target=https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/youtube.m3u"
         },
-        
+        {
+            "name": "👖裤佬TikTok直播-免翻",
+            "type": 0,
+            "url": "https://x.maflya.com/api/proxy?target=https://tiktok.445569.xyz/live.m3u"
+        }, 
         {
             "name": "⭐裤佬-抖音直播源 专区",
             "type": 1,
@@ -40,11 +44,6 @@
             "name": "👖裤佬Twitch直播",
             "type": 0,
             "url": "https://twitch.445569.xyz/live.m3u"
-        },
-        {
-            "name": "👖裤佬TikTok直播{翻}",
-            "type": 0,
-            "url": "https://tiktok.445569.xyz/live.m3u"
         },
         {
             "name": "🍿斗鱼TV直播",
