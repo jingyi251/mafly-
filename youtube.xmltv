@@ -2,16 +2,6 @@
   <channel id="UN.yt">
     <display-name lang="en">United Nations联合国</display-name>
   </channel>
-  <programme channel="UN.yt" start="20260811170000 +0100" stop="20260811200000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=vYRfQo6JMxc</title>
-    <desc lang="en">No description provided</desc>
-    <icon src=""/>
-  </programme>
-  <programme channel="UN.yt" start="20260811200000 +0100" stop="20260811230000 +0100">
-    <title lang="en">https://www.youtube.com/watch?v=vYRfQo6JMxc</title>
-    <desc lang="en">No description provided</desc>
-    <icon src=""/>
-  </programme>
   <programme channel="UN.yt" start="20260811230000 +0100" stop="20260812020000 +0100">
     <title lang="en">https://www.youtube.com/watch?v=vYRfQo6JMxc</title>
     <desc lang="en">No description provided</desc>
@@ -38,6 +28,16 @@
     <icon src=""/>
   </programme>
   <programme channel="UN.yt" start="20260812140000 +0100" stop="20260812170000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=vYRfQo6JMxc</title>
+    <desc lang="en">No description provided</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="UN.yt" start="20260812170000 +0100" stop="20260812200000 +0100">
+    <title lang="en">https://www.youtube.com/watch?v=vYRfQo6JMxc</title>
+    <desc lang="en">No description provided</desc>
+    <icon src=""/>
+  </programme>
+  <programme channel="UN.yt" start="20260812200000 +0100" stop="20260812230000 +0100">
     <title lang="en">https://www.youtube.com/watch?v=vYRfQo6JMxc</title>
     <desc lang="en">No description provided</desc>
     <icon src=""/>
