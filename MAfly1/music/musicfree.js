@@ -596,8 +596,8 @@ async function getMusicInfo(musicItem) {
 }
 
 module.exports = {
-  platform: "maflya音源",
-  author: "源自裤佬@stymei -✈️TG频道@flymaf",
+  platform: "maflya.com音源",
+  author: "✈️TG频道@flymaf",
   version: "8.8.8",
   appVersion: ">0.1.0-alpha.0",
   srcUrl: "https://maflya.com",
