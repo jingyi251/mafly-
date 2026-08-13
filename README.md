@@ -3,7 +3,8 @@
 ![gif图片alien](./MAfly1/pic/alien_converted-1M.gif)  
 
   tg
-TG频道 : ✈关注TG频道 @flymaf  
+TG频道 : ✈关注TG频道 @flymaf
+https://t.me/flymaf
 TG群聊  :  https://t.me/+vBTBjfJsag4xYmRk  
 
 web网站导航页：  
@@ -15,7 +16,7 @@ https://www.maflya.com
 maflya-TVBOX  
 https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly2  
 
-maflya-iptv
+maflya-iptv  
 https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly.m3u  
 
 MAFly-IOS-猫源md5订阅  
@@ -28,11 +29,12 @@ MAFly-youtube直播-iptv
 https://x.maflya.com/api/proxy?target=https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/youtube.m3u  
 
 
-node订阅节点  
+node公益订阅节点  
 ======  
-maflya-NODE
-自适应节点订阅
-https://sub.maflya.com    
+maflya-NODE  
+自适应节点订阅  
+
+https://sub.maflya.com  
 
 
 音乐接口  
