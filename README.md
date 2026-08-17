@@ -25,11 +25,6 @@ https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/head
 MAFly-IOS-猫源md5订阅  
 https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mao/index.js.md5  
 
-MAFly-youtube直播-iptv  
-海外直接看  https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/youtube.m3u   
-
-免翻 youtube-iptv 
-https://x.maflya.com/api/proxy?target=https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/youtube.m3u  
 
 
 node公益订阅节点  
