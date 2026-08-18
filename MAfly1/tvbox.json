@@ -2,8 +2,14 @@
   "spider": "http://oss4liview.moji.com/thd_file/2026/08/14/f9c4d189ee5f4ca87021c3b2893133a9.jpg;md5;dd932e5eb6170df1019c1ef3c9fe0b4b",
   "wallpaper": "https://seep.eu.org/https://www.maflya.com/MAfly1/pic/mountain.png",
   "logo": "https://www.maflya.com/MAfly1/pic/alien_8bit.gif",
-  "sites": [
-
+	"lives": [
+    {
+      "name": "⭐MaflyaTV直播",
+      "type": 1,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/mafly1"
+    },
+    ],
+	"sites": [
     {
       "key": "Douban",
       "name": "⭐MAFLYA.COM⭐",
@@ -17,7 +23,7 @@
     },
 	{
       "key": "Doubanaaaa",
-      "name": "【更新日期:20260814】",
+      "name": "⭐更新日期:20260818⭐",
       "type": 3,
       "api": "csp_NewDouBanGuard",
 	  "indexs":1,
@@ -28,7 +34,7 @@
     },
     {
       "key": "Wexconfig",
-      "name": "🐮配置┃中心🐮",
+      "name": "⭐进入配置⭐",
       "type": 3,
       "api": "csp_PanConfigGuard",
       "searchable": 0,
@@ -67,6 +73,15 @@
       "searchable": 1,
 	  "quickSearch":1,
       "changeable": 0
+    },
+	{
+      "key": "⭐Maflya电视直播集合",
+      "name": "⭐Maflya丨电视丨直播",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 0,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/zbzdb.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/zbzdb.json"
     },
 	 {
       "key": "⭐Maflya-油管直播",
