@@ -11,6 +11,17 @@
     ],
 	"sites": [
     {
+      "key": "Mafly豆瓣片单",
+      "name": "✈️TG频道@flymaf",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/paomadeng.jar",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/mhmdxahmd/mafly/refs/heads/main/MAfly1/paomadeng.txt"
+    },
+    {
       "key": "Douban",
       "name": "⭐MAFLYA.COM⭐",
       "type": 3,
