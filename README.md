@@ -19,6 +19,9 @@ https://www.maflya.com
 推荐好用的梯子 纯纯自己用过才推荐
 请用我的链接注册 我才能拿佣金
 ===  
+WY Cloud 
+https://xn--9kqs1lo79d.com/#/register?code=pka0ZyWh  
+
 吹雪云机场  
 https://xn--9kqs1lo79d.com/#/register?code=pka0ZyWh  
 
