@@ -81,6 +81,10 @@ https://bestcf.pages.dev/
 https://github.com/LancelotRar/best-cf-ips  
 
 =======S5公益内置代理集合---  
+MAFLYA-S5-TG内置代理公益  
+
+https://t.me/mas5_bot  
+
 S5-TG内置代理公益  
 
 https://t.me/MyCool_Official_Bot?start=8628475611  
