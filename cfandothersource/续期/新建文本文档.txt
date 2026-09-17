@@ -1,0 +1,134 @@
+[2026/6/3 23:28] 和谐号 S5: [ 3 个文件 ]
+
+GitHub工作流，自动续期脚本
+9月4日20:09:08
+在 GitHub Actions 部署续期脚本
+
+.github/workflows/renew.yml
+
+请在仓库的 Settings -> Secrets and variables -> Actions 中添加以下机密变量（点按下方高亮文字即可一键复制）：
+
+核心必填变量：
+
+订阅链接：
+SUB_URL      #新加变量
+
+推荐群内 https://raw.githubusercontent.com/hc990275/yhjs/refs/heads/main/s5/url.txt
+
+可用本群的订阅公益连接
+
+账号配置信息 JSON：
+USERS_JSON
+
+https://www.json.cn/js-format/
+
+（填入的数据格式参考）：
+多账号
+[
+    {
+        "username": "mhmdahmd2006me@gmail.com",
+        "password": "H@zn20151123",
+        "serverId": "373199"
+    },
+    {
+        "username": "邮箱",
+        "password": "密码",
+        "serverId": "服务器ID"
+    }
+]
+单账号
+[
+    {
+        "username": "mhmdahmd2006me@gmail.com",
+        "password": "H@zn20151123",
+        "serverId": "11bcb72f"
+    }
+]
+
+[{"username":"mhmdahmd2006me@gmail.com","password":"H@zn20151123","serverId":"11bcb72f"},{"username":"x@maflya.com","password":"H@zn20151123","serverId":"0548e279"}]
+[{"username":"x@maflya.com","password":"H@zn20151123","serverId":"0548e279"}]
+
+
+
+
+Telegram 机器人 Token：
+TG_BOT_TOKEN
+
+Telegram 接收频道或个人 ID：
+TG_CHAT_ID
+
+
+可选配置变量：
+指定 TG 话题 ID（如果需要发到特定话题）：
+TG_THREAD_ID
+[2026/6/3 23:28] 和谐号 S5: @svipultra
+
+[2026/6/3 23:28] 和谐号 S5: [ 3 个文件 ]
+
+GitHub工作流，自动续期脚本
+9月4日20:09:08
+在 GitHub Actions 部署续期脚本
+
+.github/workflows/renew.yml
+
+请在仓库的 Settings -> Secrets and variables -> Actions 中添加以下机密变量（点按下方高亮文字即可一键复制）：
+
+核心必填变量：
+
+订阅链接：
+SUB_URL      #新加变量
+
+推荐群内 https://raw.githubusercontent.com/hc990275/yhjs/refs/heads/main/s5/url.txt
+
+可用本群的订阅公益连接
+
+账号配置信息 JSON：
+USERS_JSON
+
+https://www.json.cn/js-format/
+
+（填入的数据格式参考）：
+多账号
+[
+    {
+        "username": "邮箱",
+        "password": "密码",
+        "serverId": "服务器ID"
+    },
+    {
+        "username": "邮箱",
+        "password": "密码",
+        "serverId": "服务器ID"
+    }
+]
+单账号
+[
+    {
+        "username": "邮箱",
+        "password": "密码",
+        "serverId": "服务器ID"
+    }
+]
+
+Telegram 机器人 Token：
+TG_BOT_TOKEN
+
+Telegram 接收频道或个人 ID：
+TG_CHAT_ID
+
+
+可选配置变量：
+指定 TG 话题 ID（如果需要发到特定话题）：
+TG_THREAD_ID
+[2026/6/3 23:28] 和谐号 S5: @svipultra
+[2026/6/3 23:29] 和谐号 S5: 公 益机器人注册激活
+@MyCool_Official_Bot
+
+赞 助器人注册激活
+CF快速隧道代理
+@s5free_bot
+
+6.5日之前都可以私聊
+@sddzn_bot
+免费获取一个激 活 码 30天
+以前赞 助过的直接带着以前的邮箱私聊这个机器人
