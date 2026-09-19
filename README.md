@@ -19,6 +19,11 @@ https://www.maflya.com
 推荐好用的梯子 纯纯自己用过才推荐
 请用我的链接注册 我才能拿佣金
 ===  
+
+ Kitty Network
+稳定高速 | 多协议支持
+https://kitty.fo/register?invite=NOWP3LB4
+
 WY Cloud  
 https://w1w1.org/#/register?code=QPUweilI  
 
